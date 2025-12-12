@@ -10,3 +10,4 @@ petent
 furioza
 rosomaha
 try another mint
+general mint complete
